@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 git --work-tree=/home/git/blog --git-dir=/home/git/blog.git checkout -f
 
