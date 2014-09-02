@@ -3,6 +3,8 @@ Deploy-Scripts
 
 Deploy scripts for various things on nushackers.org.
 
+This is a back-up. Changes here do not propagate.
+
 # Hackerschool Website
 
 	mkdir /home/git/hackerschool.git
