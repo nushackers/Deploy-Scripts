@@ -10,7 +10,7 @@ This is a back-up. Changes here do not propagate.
 Firstly all our projects are on github, so the `origin` of the project is the github repo. To enable deployment, add a new `remote` which correspond to our deploy server, for example:
 
 ```bash
-git remote add deploy deploy.nushackers.org:<git-repo-on-deploy-server>.git
+git remote add deploy git@deploy.nushackers.org:<git-repo-on-deploy-server>.git
 ```
 
 `<git-repo-on-deploy-server>.git` correspond to the git repo on our deploy server, which is documented below(if you ever add a new repo, document it or commit seppuku).
